@@ -8,5 +8,5 @@ Learning and Insights:
  3.Adult age group(30-49 years) are more likely to buy products(`50%)
  4.Amazon,Flipkart and Myntra channels are contributing to the sales to the maximum(`80%)
 
-Final Conclution to improve the Vrinda store sales:
+Final Conclusion to improve the Vrinda store sales:
 Target women customers of age group(30-49 years) living in Maharashtra, Karnataka and Utter Pradesh by showing ads/offers/coupons available on Amazon. Flipkart and Myntra.
